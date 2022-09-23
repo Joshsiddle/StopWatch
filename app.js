@@ -51,3 +51,5 @@ function updateTimer() {
 
     cancelId = requestAnimationFrame(updateTimer)
 }
+
+
